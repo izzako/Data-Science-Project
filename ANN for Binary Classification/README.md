@@ -17,4 +17,4 @@ I also use various package such as:
 This code is not the best, and there's still a lot room for improvement.
 
 ## Disclaimer
-I ~~steal~~ gain inspiration from some code on google and my professor at uni. This project is intended for my personal learning only.
+I ~~steal~~ gain inspiration from some code on google and my professor at uni. This project is intended for my personal learning.
