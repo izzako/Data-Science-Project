@@ -5,7 +5,7 @@
 I build a binary classification from scratch using Neural Network with one hidden layer, also known as Shallow Neural Network.
 This project use data from `sklearn.datasets` to get labeled data (0 or 1) with 2 features, and plot a decision boundary using the usual `matplotlib.pyplot`.
 
-For the achitecture itself, we will use 2 neuron (or nodes) on the input layer, 4 neuron on the hidden layer, and 1 neuron on the output layer. We also use sigmoid 
+For the achitecture itself, we will use 2 neuron (or nodes) on the input layer, 4 neuron on the hidden layer, and 1 neuron on the output layer. We also use sigmoid and hyperbolic tangent
 as our activation function.
 
 I also use various package such as:
