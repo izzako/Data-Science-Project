@@ -14,7 +14,7 @@ I also use various package such as:
 - scikit-learn, to acquire the data
 - matplotlib, for the visualization
 
-This code is not the best, and there's still a lot room for improvement.
+This code is not the best, and there's still a lot room for improvement. Especially turning this code into OOP for more practical purposes.
 
 ## Disclaimer
 I ~~steal~~ gain inspiration from some code on google and my professor at uni. This project is intended for my personal learning.
