@@ -1,4 +1,4 @@
-# Shalow Neural Network from Scratch
+# Shallow Neural Network from Scratch
 
 ## Description
 
